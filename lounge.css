@@ -33,3 +33,19 @@ h2 {
   background-repeat: no-repeat;
   background-position: top left;
 }
+.elixir {
+  padding: 0px 20px 20px 20px;
+  border: solid thin #007e7e;
+  width: 200px;
+  margin-left: 20px;
+  text-align: center;
+  background-image: url(images/cocktail.gif);
+  background-repeat: repeat-x;
+  line-height: 1;
+}
+.elixir h2 {
+  color: #000;
+}
+.elixir h3 {
+  color: red;
+}
