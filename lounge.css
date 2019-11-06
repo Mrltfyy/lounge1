@@ -49,3 +49,9 @@ h2 {
 .elixir h3 {
   color: red;
 }
+.cd {
+  font-style: italic;
+}
+.artist {
+  font-weight: bold;
+}
